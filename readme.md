@@ -127,6 +127,8 @@ Session ends → astrologer earnings credited
 
 ## 📲 Deployment
 
+> Successfully deployed multiple astrology platforms on both Google Play Store and Apple App Store.
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" style="height: 50px"/>](https://play.google.com/store/apps/details?id=com.zodify.zodify&pcampaignid=web_share)
 &nbsp;
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" style="height: 50px"/>](https://apps.apple.com/in/app/zodify-relationship-astro/id6757225850)
