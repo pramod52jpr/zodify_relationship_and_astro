@@ -8,6 +8,8 @@
 
 **Zodify** is a full-featured astrology app built for both **users** and **astrologers**. Users can explore personalized horoscopes, get Kundli readings, and connect with expert astrologers via real-time chat or voice/video calls. Astrologers get a dedicated dashboard to manage consultations and earnings.
 
+> 🔒 This is a proprietary project — source code is not shared due to NDA. For any technical queries, feel free to reach out.
+
 ---
 
 ## ✨ Features
