@@ -22,6 +22,7 @@
 - 💰 **Wallet System** — Recharge wallet and pay astrologers per-minute via Razorpay
 - 🔔 **Push Notifications** — Alerts via Firebase Cloud Messaging
 - 🎵 **Audio Player** — Stream spiritual & meditation audio with waveform display
+- 🎶 **Music Player** — Healing & spiritual music streaming with background playback and media notification controls
 - 📄 **PDF Viewer** — In-app document reading
 - 💑 **Soulmate Sketch** — AI-generated personalized soulmate sketches
 - 🛍️ **Astrology Products** — Browse and purchase astrology-related products with cart & checkout
